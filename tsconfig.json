@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "sourceMap": false,
+        "experimentalDecorators": true,
+        "target": "es6"
+    }
+}
